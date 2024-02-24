@@ -14,7 +14,6 @@
 -  Currently learning Python, Java, C# and C
 <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusPy&show_icons=true&theme=tokyonight"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusPy&layout=compact&theme=tokyonight"/>
 </div>
 
 
