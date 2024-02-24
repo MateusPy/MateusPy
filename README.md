@@ -12,10 +12,9 @@
 -  I'm really working to improve my skills in software development!
 
 -  Currently learning Python, Java, C# and C
-
 <div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateus-Orlando&show_icons=true&theme=tokyonight"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Carvalho-Antunes&layout=compact&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusPy&show_icons=true&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusPy&layout=compact&theme=tokyonight"/>
 </div>
 
 
